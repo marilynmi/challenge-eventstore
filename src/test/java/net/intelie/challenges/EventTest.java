@@ -22,8 +22,7 @@ public class EventTest {
         Event event3 = new Event("event3", 789L);
         event.insert(event3);     
               
-        //assertTrue(event3.moveNext());
-                
+              
         //Testing current event and remove current event
                 
         //Removing current event
